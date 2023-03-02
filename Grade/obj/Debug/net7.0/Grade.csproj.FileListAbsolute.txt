@@ -1,0 +1,15 @@
+C:\Users\Elshan\Desktop\Algorithms\Grade\bin\Debug\net7.0\Grade.exe
+C:\Users\Elshan\Desktop\Algorithms\Grade\bin\Debug\net7.0\Grade.deps.json
+C:\Users\Elshan\Desktop\Algorithms\Grade\bin\Debug\net7.0\Grade.runtimeconfig.json
+C:\Users\Elshan\Desktop\Algorithms\Grade\bin\Debug\net7.0\Grade.dll
+C:\Users\Elshan\Desktop\Algorithms\Grade\bin\Debug\net7.0\Grade.pdb
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.dll
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\refint\Grade.dll
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.pdb
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\Grade.genruntimeconfig.cache
+C:\Users\Elshan\Desktop\Algorithms\Grade\obj\Debug\net7.0\ref\Grade.dll

@@ -1,0 +1,15 @@
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.exe
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.deps.json
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.runtimeconfig.json
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.dll
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\bin\Debug\net7.0\ClimbingTheLeaderboard.pdb
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.dll
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\refint\ClimbingTheLeaderboard.dll
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.pdb
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ClimbingTheLeaderboard.genruntimeconfig.cache
+C:\Users\Elshan\Desktop\Algorithms\ClimbingTheLeaderboard\obj\Debug\net7.0\ref\ClimbingTheLeaderboard.dll

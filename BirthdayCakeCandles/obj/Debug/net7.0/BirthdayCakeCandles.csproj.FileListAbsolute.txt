@@ -1,0 +1,15 @@
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\bin\Debug\net7.0\BirthdayCakeCandles.exe
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\bin\Debug\net7.0\BirthdayCakeCandles.deps.json
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\bin\Debug\net7.0\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\bin\Debug\net7.0\BirthdayCakeCandles.dll
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\bin\Debug\net7.0\BirthdayCakeCandles.pdb
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.dll
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\refint\BirthdayCakeCandles.dll
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.pdb
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\BirthdayCakeCandles.genruntimeconfig.cache
+C:\Users\Elshan\Desktop\Algorithms\BirthdayCakeCandles\obj\Debug\net7.0\ref\BirthdayCakeCandles.dll
